@@ -16,3 +16,6 @@ Data Loading: Load transformed data into Google BigQuery tables.
 Orchestration: Automate complete Data pipeline using Airflow ( Cloud Composer )
 
 ![Architecture Diagram](ETL_pipeline.png)
+
+
+![Looker Report](Employee Report.jpg)
