@@ -18,4 +18,4 @@ Orchestration: Automate complete Data pipeline using Airflow ( Cloud Composer )
 ![Architecture Diagram](ETL_pipeline.png)
 
 
-![Looker Report](Employee Report.jpg)
+![Looker Report](Employee_Report.png)
